@@ -1,11 +1,11 @@
 # Site settings
-title: Ecologist 
+title: Ethan Norris Ecology 
 email: norrisethan5@gmail.com
 url: https://ethann-5.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Ecologist - Data Analyist - Programmer"
-meta_author: LastName FirstName
+meta_author: Norris Ethan
 
 # Google webmaster tools
 google_verify:
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/ethan-norris-
+    url: https://www.linkedin.com/in/ethan-norris-/
   - title: github
     url: https://github.com/Ethann-5
 
